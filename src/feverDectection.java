@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class method_review_ex {
+public class feverDectection {
     public static void main(String[] args) {
         printFeverLimits();
         Scanner sc = new Scanner(System.in);

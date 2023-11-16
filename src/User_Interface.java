@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class golnaz_constructor {
+public class User_Interface {
     public static void main(String[] args) {
         /*
         Make a class of car, constructors and several methods to accelerate, refuel to continue car driving.
