@@ -21,7 +21,7 @@ public class progTest2 {
          */
 
         Scanner sc = new Scanner(System.in);
-        ArrayList<String> myList = new ArrayList<String>();
+        ArrayList<String> myList = new ArrayList<>();
         while (true) {
             System.out.println("Add item "+ (myList.size()+1) +" (type q to quit)");
             String items = sc.nextLine();

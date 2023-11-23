@@ -6,7 +6,7 @@ public class ArrayList_practice {
 
         Scanner sc = new Scanner(System.in);
 
-        ArrayList<String> ItemList = new ArrayList<String>();
+        ArrayList<String> ItemList = new ArrayList<>();
 
         // Applying the loop
         while (true){
