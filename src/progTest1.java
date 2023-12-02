@@ -18,8 +18,6 @@ public class progTest1 {
         Scanner sc = new Scanner(System.in);
         ArrayList<String> myList = new ArrayList<>();
         while (true) {
-
-
             System.out.println("Add item (type q to quit)");
             String items = sc.nextLine();
 
